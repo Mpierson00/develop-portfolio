@@ -29,3 +29,4 @@ This portfolio is a work in progress, and I plan to add more features and projec
 
 Thank you for visiting my portfolio repository. I hope you find the projects interesting and informative.
 
+![DevelopPortfolio](./Images/127.0.0.1_5501_develop-portfolio_index.html.png)
