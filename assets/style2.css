@@ -65,7 +65,7 @@ section {
 }
 
 img {
-    max-width: 50%;
+    max-width: 30%;
     height: auto;
 }
 .project-container {
@@ -116,7 +116,22 @@ figcaption {
 
 @media screen and (max-width: 600px) {
     .project-container {
-        grid-template-columns: (1fr);
+        grid-template-columns: (1fr); 
+    }
+    h2 {
+     font-size: 22px;
+    } 
+    #name {
+        font-size: 24px;
+    }
+    h1 {
+        font-size: 22px;
+    }
+    #about-me {
+        font-size: 22px;
+    }
+    .protest-riot-regular {
+        font-size: 20px;
     }
 }
 @media (min-width: 768px) {
