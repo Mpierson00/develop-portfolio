@@ -31,7 +31,7 @@ Thank you for visiting my portfolio repository. I hope you find the projects int
 
 ![DevelopPortfolio](./Images/127.0.0.1_5501_develop-portfolio_index.html.png)
 
-## License
+## Liscense
 MIT License 
 
 Copyright (c) [2024] [Michael Pierson]
